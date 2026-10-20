@@ -4,6 +4,17 @@ A machine learning-based API that classifies text messages as **Spam** or **Not 
 
 The project uses **Multinomial Naive Bayes** and **CountVectorizer** to analyze text and make predictions.
 
+
+# Spam Email Detector
+
+**[Try the Live Demo](https://spamemailapi-fcavprclpbp2cujzvgdrjs.streamlit.app/)**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spamemailapi-fcavprclpbp2cujzvgdrjs.streamlit.app/)
+
+A machine learning project that classifies email messages as spam or legitimate.
+
+
+
 ## 🚀 Features
 
 - Detects whether a message is Spam or Not Spam
